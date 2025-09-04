@@ -16,7 +16,7 @@ pipeline {
     stages {
         stage('Git Checkout') {
             steps {
-                git branch: 'main', url: 'https://github.com/KastroVKiran/SonarQube-Project-Kastro.git'
+                git branch: 'main', url: 'https://github.com/akanksha106-code/SonarQube-Project.git'
             }
         }
 
@@ -88,4 +88,5 @@ pipeline {
         }
     }
 }
+
 
