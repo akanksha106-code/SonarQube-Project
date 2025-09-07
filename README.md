@@ -1,6 +1,6 @@
 # SonarQube
 # SonarQube - Code Quality Analysis  
-*by Kastro Kiran V*  
+
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](#)  
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](#)  
